@@ -98,4 +98,4 @@ Shyamal.p("The larger number is " + largerNumber + ".");
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/shyamal005/shyamal-java-library/edit/main/LICENSE.md) file for details.
