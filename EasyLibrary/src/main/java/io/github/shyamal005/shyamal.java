@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class shyamal {
     private static Scanner sc = new Scanner(System.in);
 
-    // ========= PRINTING =========
+    // PRINTING 
     public static void p(String msg) {
         System.out.println(msg);
     }
@@ -99,3 +99,4 @@ public class shyamal {
         sc.nextLine();
     }
 }
+
